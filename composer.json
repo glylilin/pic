@@ -1,3 +1,10 @@
 {
-  "name": "pic/utils"
+    "name": "pic/utils",
+    "authors": [
+        {
+            "name": "glylilin",
+            "email": "wly19900726@sina.com"
+        }
+    ],
+    "require": {}
 }
