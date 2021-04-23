@@ -12,7 +12,7 @@
             "email": "wly19900726@sina.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {"picture": "src/"}
     }
