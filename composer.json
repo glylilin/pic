@@ -1,6 +1,6 @@
 {
     "name": "picture/utils",
-    "description": "pic",
+    "description": "pack pic",
     "type": "library",
     "require": {
         "php": "5.6"
@@ -12,8 +12,5 @@
             "email": "wly19900726@sina.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {"picture": "src/"}
-    }
+    "minimum-stability": "dev"
 }
