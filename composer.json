@@ -3,7 +3,7 @@
     "description": "pack pic",
     "type": "library",
     "require": {
-        "php": "5.6"
+        "php": "^5.6"
     },
     "license": "MIT",
     "authors": [
@@ -12,5 +12,8 @@
             "email": "wly19900726@sina.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {"picture": "src/"}
+    }
 }
