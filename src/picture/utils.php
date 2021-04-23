@@ -1,4 +1,4 @@
-<?php
+<?
 namespace picture;
 
 class Utils

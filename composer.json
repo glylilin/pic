@@ -1,10 +1,19 @@
 {
-    "name": "pic/utils",
+    "name": "picture/utils",
+    "description": "pic",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
     "authors": [
         {
             "name": "glylilin",
             "email": "wly19900726@sina.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {"picture": "src/"}
+    }
 }
